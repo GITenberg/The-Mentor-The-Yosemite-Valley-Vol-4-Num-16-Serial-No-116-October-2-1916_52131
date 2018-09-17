@@ -1,5 +1,8 @@
 _repo: The-Mentor-The-Yosemite-Valley-Vol-4-Num-16-Serial-No-116-October-2-1916_52131
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52131-h/images/cover.jpg
 creator:
   author:
     agent_name: Elmendorf, Dwight L. (Dwight Lathrop)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '45347'
     url: http://www.gutenberg.org/2009/agents/45347
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52131#The-Mentor-The-Yosemite-Valley-Vol-4-Num-16-Serial-No-116-October-2-1916
 gutenberg_issued: '2016-05-22'
 gutenberg_type: Text
 identifiers:
