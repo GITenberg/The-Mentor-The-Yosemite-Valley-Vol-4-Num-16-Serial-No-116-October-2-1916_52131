@@ -1,0 +1,26 @@
+_repo: The-Mentor-The-Yosemite-Valley-Vol-4-Num-16-Serial-No-116-October-2-1916_52131
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elmendorf, Dwight L. (Dwight Lathrop)
+    alias: Elmendorf, Dwight
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '45347'
+    url: http://www.gutenberg.org/2009/agents/45347
+description: ''
+gutenberg_issued: '2016-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yosemite Valley (Calif.)'
+- !lcc 'F850.5'
+- GITenberg
+title: 'The Mentor: The Yosemite Valley, Vol 4, Num. 16, Serial No. 116, October 2,
+  1916'
+url: http://www.gutenberg.org/ebooks/52131
